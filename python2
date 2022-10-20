@@ -1,0 +1,2 @@
+s=input("Enter Name : ")
+print(s[0:-3])
