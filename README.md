@@ -1,3 +1,0 @@
-# Python
-
-By Mishab
